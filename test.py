@@ -23,3 +23,5 @@ print(num_of_frames / frequency)
 
 samples = audio.readframes(num_of_frames)
 print(len(samples))
+
+print('Hello Ustudy')
